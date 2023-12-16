@@ -1,0 +1,7 @@
+{
+  "onReachBottomDistance": 100,
+  "navigationBarTitleText": "长恒优品",
+  "usingComponents": {
+    "coupon": "/components/coolc-coupon/coolc-coupon"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "商品秒杀详情",
+  "usingComponents": {
+    "share": "/components/share"
+  }
+}

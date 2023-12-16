@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "积分详情展示",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "share": "/components/share"
+  }
+}

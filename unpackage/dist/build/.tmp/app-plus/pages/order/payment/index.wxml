@@ -1,0 +1,1 @@
+<view class="app"><view class="price-box"><text>支付金额</text><text class="price">{{orderInfo.orderPayAmount}}</text></view><payments-by-h5 vue-id="1" orderId="{{orderId}}" recharge="{{recharge}}" type="{{type}}" uid="{{userInfo.id}}" bind:__l="__l"></payments-by-h5></view>

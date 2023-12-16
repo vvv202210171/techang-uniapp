@@ -1,0 +1,136 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 背景颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.tugurl {
+  color: #999;
+  font-size: 28rpx;
+}
+.sharbuttn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.shartitle {
+  width: 80%;
+  text-align: center;
+  margin-left: 10%;
+  border-bottom: 1px solid #dddddd;
+  position: relative;
+  height: 60rpx;
+}
+.tgtit {
+  text-align: center;
+  margin-top: 10rpx;
+}
+.shartitle view {
+  height: 50rpx;
+  line-height: 50rpx;
+  font-size: 28rpx;
+  color: #999;
+  width: 120rpx;
+  margin: 32rpx auto;
+  position: absolute;
+  background: #fff;
+  left: 50%;
+  margin-left: -60rpx;
+}
+.sharapk {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin: 20rpx auto;
+}
+.sharapk view {
+  margin: 40rpx;
+}
+.sharapk view image {
+  height: 80rpx;
+  width: 80rpx;
+}
+.content {
+  width: 100%;
+  background-color: #ffffff;
+}
+.top {
+  width: 100%;
+  height: 400rpx;
+  background: url(https://g1xd.mediav.com/s?type=2&r=20&mv_ref=www.360kuai.com&enup=CAABfVnZ+wgAAvvZWX0A&mvid=NDM3NjkzMTEzMzgzMjA5MTgwNTAwMjA&bid=145aa16e0750b7b1&price=AAAAAF7F2bgAAAAAAA374vw0LDjH6WDzZ2vr9Q==&finfo=DAABCAABAAALwggAAgAAAIMEAAM/eJzI/CpXXQAIAAIAAAADCgADfrpFk4M+p/EIAAQAAAH1BgAKAAAGAA0cEwgADgAAAC8KAA8AAAAABkeDcAA&ugi=FcLilgEVttt3TBUCFUAVWBUAABXm9ZuHBxYEFcgBFoD4/tXOh9MFHBb/25Tl4ZSg58EBFQAAJd7GvNIJAA&uai=FdrtnQIlAhUEFpK9tMXenp66/QEV+Acl6+j26wMlABUaFAgcFpGAh4j/hLLiSBUAAAA&ubi=Fc7YaRXUv5QDFeL+xRoV3PqbXhUGFRwWvPWv5RcWkr3JrOjkorr9ATQCFqDgkIDAAiUGFbbysTgV+gUVACQUFoTbnq6NmObQLRUAJZBOFeoHFQwA&clickid=0&cpx=__OFFSET_X__&cpy=__OFFSET_Y__&cs=__EVENT_TIME_START__&ce=__EVENT_TIME_END__&adsw=__ADSPACE_W__&adsh=__ADSPACE_H__&csign2=vhbIL8AQy1U=&url=http%3A%2F%2Fdfe.zhiruida09.com%2F004%2F) no-repeat;
+  background-size: 100%;
+  background-position: center center;
+}
+.banner {
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 60rpx 60rpx 0 0;
+  margin-top: -60rpx;
+}
+.banner ._dl {
+  margin-top: -80rpx;
+}
+.banner ._dl ._dt {
+  text-align: center;
+}
+.banner ._dl ._dt image {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 50%;
+}
+.banner ._dl ._dd {
+  text-align: center;
+}
+.img {
+  width: 300rpx;
+  height: 300rpx;
+  background-color: red;
+  margin: 0 auto;
+  margin-top: 60rpx;
+}
+.img image {
+  width: 100%;
+  height: 100%;
+}
+.btn {
+  width: 260rpx;
+  height: 60rpx;
+  line-height: 60rpx;
+  margin: 0 auto;
+  margin-top: 60rpx;
+  border-radius: 40rpx;
+  border: 0;
+  font-size: 26rpx;
+  outline: 0;
+  background: #33b17b;
+  color: #ffffff;
+  text-align: center;
+}
+.bottom {
+  width: 100%;
+  padding: 24rpx;
+  font-size: 32rpx;
+}
+.bottom .view-item {
+    line-height: 50rpx;
+}
+

@@ -1,0 +1,147 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 背景颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.main-body .order-sn {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  font-size: 28rpx;
+  margin: 16rpx;
+}
+.main-body .order-sn .order-sn-content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+            justify-content: space-between;
+    padding: 16rpx 0;
+    margin-bottom: 16rpx;
+    border-bottom: 2rpx solid #DCDFE6;
+}
+.main-body .order-items {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  margin: 16rpx;
+  margin-top: 16rpx;
+}
+.main-body .order-items .order-item {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    margin-bottom: 16rpx;
+}
+.main-body .order-items .order-item .imgbox {
+      width: 144rpx;
+      height: 144rpx;
+}
+.main-body .order-items .order-item .order-item-content {
+      font-size: 32rpx;
+      margin-left: 66rpx;
+}
+.main-body .order-items .order-item .order-item-content .order-item-wrappper {
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: flex;
+        width: 500rpx;
+        margin-top: 30rpx;
+        -webkit-box-pack: justify;
+        -webkit-justify-content: space-between;
+                justify-content: space-between;
+}
+.main-body .order-items .order-item .order-item-content .order-item-wrappper .order-item-desc {
+          display: -webkit-box;
+          display: -webkit-flex;
+          display: flex;
+          font-size: 28rpx;
+}
+.main-body .order-items .order-item .order-item-content .order-item-wrappper .order-item-desc .order-item-desc-number {
+            color: #909399;
+}
+.main-body .order-items .order-item .order-item-content .order-item-wrappper .order-item-desc .order-item-desc-price {
+            margin-left: 24rpx;
+            color: #dd0037;
+}
+.main-body .order-items .order-item .order-item-content .order-item-wrappper .order-item-btn {
+          border-color: #4399fc;
+          line-height: 50rpx;
+          height: 50rpx;
+}
+.main-body .order-desc-wrapper {
+  background-color: #f4f4f4;
+  padding-top: 16rpx;
+}
+.main-body .order-desc-wrapper .order-tongji-wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    font-size: 28rpx;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+            flex-direction: column;
+    background-color: #fff;
+    margin: 16rpx 0;
+}
+.main-body .order-desc-wrapper .order-tongji-wrapper .order-tongji {
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: justify;
+      -webkit-justify-content: space-between;
+              justify-content: space-between;
+      margin: 8rpx 0;
+      padding: 0 16rpx;
+}
+.main-body .order-desc-wrapper .order-tongji-wrapper .order-tongji .order-tongji-num {
+        color: #fa436a;
+}
+.main-body .order-status-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.main-body .order-status-wrapper .order-status {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    width: 100%;
+}
+.main-body .order-status-wrapper .order-status .btn {
+      font-size: 28rpx;
+      border: 2rpx solid #4cd964;
+      padding: 10px;
+      margin: 8rpx;
+      border-radius: 12rpx;
+      color: #4399fc;
+      background: white;
+}
+

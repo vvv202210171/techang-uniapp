@@ -1,0 +1,1 @@
+<view><view class="notice-item"><text class="time">{{notice.createTime}}</text><view class="content"><text class="title">{{notice.noticeTitle}}</text><view class="img-wrapper"><image class="pic" src="{{notice.noticePic}}"></image></view><text class="introduce">{{notice.noticeContent}}</text></view></view></view>

@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "test",
+  "usingComponents": {
+    "drag-ball": "/components/drag-ball/drag-ball"
+  }
+}

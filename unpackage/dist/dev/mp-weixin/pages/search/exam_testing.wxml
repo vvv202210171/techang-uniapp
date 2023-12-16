@@ -1,0 +1,1 @@
+<view><exam-widght vue-id="1" dataList="{{QuestionList}}" index="{{index}}" data-event-opts="{{[['^select',[['selectItem']]],['^selectFinish',[['selectFinish']]],['^finish',[['finish']]]]}}" bind:select="__e" bind:selectFinish="__e" bind:finish="__e" bind:__l="__l"></exam-widght></view>

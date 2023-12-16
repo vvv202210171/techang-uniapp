@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 背景颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.select-city-wrap.data-v-3788501f {
+  position: relative;
+  padding: 0 30rpx;
+  background-color: #fff;
+}
+.select-city .index.data-v-3788501f {
+  position: absolute;
+  right: 0;
+  bottom: 20rpx;
+  z-index: 999;
+  color: #2f9bfe;
+  font-size: 32rpx;
+}
+.select-city .index .index-item.data-v-3788501f {
+    width: 40rpx;
+    height: 42rpx;
+    line-height: 42rpx;
+    text-align: center;
+}
+.select-city .section.data-v-3788501f {
+  margin-bottom: 19rpx;
+}
+.select-city .section .city-title.data-v-3788501f {
+    color: #333;
+    font-size: 28rpx;
+    margin-bottom: 28rpx;
+}
+.select-city .section .letter.data-v-3788501f {
+    width: 44rpx;
+    height: 44rpx;
+    color: #fff;
+    border-radius: 100%;
+    background-color: #2f9bfe;
+    font-size: 28rpx;
+    line-height: 44rpx;
+    text-align: center;
+    margin-bottom: 30rpx;
+}
+.select-city .section .city-list.data-v-3788501f {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+            flex-wrap: wrap;
+}
+.select-city .section .city-list .city-item.data-v-3788501f {
+      width: 190rpx;
+      height: 55rpx;
+      margin-right: 36rpx;
+      margin-bottom: 28rpx;
+      line-height: 55rpx;
+      text-align: center;
+      border: 1px solid #dcdcdc;
+      border-radius: 6rpx;
+      color: #999;
+      font-size: 28rpx;
+}
+.select-city .section .city-list .city-item.active.data-v-3788501f {
+        background-color: #d5ebff;
+        border-color: #2f9bfe;
+        color: #2f9bfe;
+}
+

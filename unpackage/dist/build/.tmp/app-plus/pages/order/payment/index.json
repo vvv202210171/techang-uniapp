@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "支付",
+  "usingComponents": {
+    "payments-by-h5": "/components/payments/paymentsByH5"
+  }
+}

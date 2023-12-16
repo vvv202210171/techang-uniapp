@@ -1,0 +1,49 @@
+@charset "UTF-8";
+/* 页面左右间距 */
+/* 文字尺寸 */
+/*文字颜色*/
+/* 边框颜色 */
+/* 背景颜色 */
+/* 图片加载中颜色 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.uni-countdown {
+  padding: 2rpx 0;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: inline-flex;
+  -webkit-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.uni-countdown__splitor {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    line-height: 44rpx;
+    padding: 0 5rpx;
+    font-size: 24rpx;
+}
+.uni-countdown__number {
+    line-height: 44rpx;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+    height: 44rpx;
+    border-radius: 6rpx;
+    font-size: 24rpx;
+    font-size: 24rpx;
+}
+

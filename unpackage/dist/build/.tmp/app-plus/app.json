@@ -1,0 +1,100 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/reward/index",
+    "pages/search/search",
+    "pages/product/giftProduct",
+    "pages/index/secskill",
+    "pages/notice/subjectList",
+    "pages/notice/noticeDetail",
+    "pages/product/product",
+    "pages/set/set",
+    "pages/cart/cart",
+    "pages/public/login",
+    "pages/user/sign",
+    "pages/public/forgetPwd",
+    "pages/user/reset_password",
+    "pages/public/index",
+    "pages/public/reg",
+    "pages/user/user",
+    "pages/detail/detail",
+    "pages/order/order",
+    "pages/order/orderDetail",
+    "pages/user/collect",
+    "pages/order/createOrder",
+    "pages/order/evaluate",
+    "pages/address/address",
+    "pages/address/addressManage",
+    "pages/notice/notice",
+    "pages/category/category",
+    "pages/product/groupList",
+    "pages/product/giftList",
+    "pages/product/groupActivityDetail",
+    "pages/product/groupActivityList",
+    "pages/product/paiMaiDetail",
+    "pages/product/secskillDetail",
+    "pages/product/paiMaiList",
+    "pages/product/discountList",
+    "pages/product/list",
+    "pages/user/profile",
+    "pages/user/share",
+    "pages/order/payment/index",
+    "pages/order/payment/auth",
+    "pages/order/payment/result",
+    "pages/search/citySelect",
+    "pages/search/comment",
+    "pages/search/coupon",
+    "pages/search/exam_testing",
+    "pages/search/tagSelect",
+    "pages/order/evaluateList",
+    "pages/user/profitList",
+    "pages/order/payment/toThirdPage/toThirdPage"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#f8f8f8"
+  },
+  "tabBar": {
+    "color": "#C0C4CC",
+    "selectedColor": "#fa436a",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tab-home.png",
+        "selectedIconPath": "static/tab-home-current.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "iconPath": "static/tab-cate.png",
+        "selectedIconPath": "static/tab-cate-current.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "iconPath": "static/tab-cart.png",
+        "selectedIconPath": "static/tab-cart-current.png",
+        "text": "购物车"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/tab-my.png",
+        "selectedIconPath": "static/tab-my-current.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "土特产",
+  "compilerVersion": "2.6.1",
+  "usingComponents": {}
+}

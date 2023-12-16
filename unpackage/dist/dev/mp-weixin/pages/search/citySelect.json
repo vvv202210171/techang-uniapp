@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "test",
+  "usingComponents": {
+    "ss-select-city": "/components/ss-select-city/ss-select-city"
+  }
+}

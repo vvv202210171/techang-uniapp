@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "团购商品详情",
+  "usingComponents": {
+    "share": "/components/share"
+  }
+}

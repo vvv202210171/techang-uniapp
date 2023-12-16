@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "test",
+  "usingComponents": {
+    "uni-evaluate": "/components/xiujun-evaluate/uni-evaluate"
+  }
+}

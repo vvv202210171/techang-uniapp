@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "搜索框",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "m-search": "/components/mehaotian-search-revision/mehaotian-search-revision"
+  }
+}

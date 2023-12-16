@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "积分详情展示",
+  "usingComponents": {
+    "share": "/components/share"
+  }
+}

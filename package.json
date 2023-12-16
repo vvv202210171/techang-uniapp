@@ -1,0 +1,14 @@
+{
+  "name": "uniapp-mb",
+  "version": "1.0.0",
+  "description": "https://blog.csdn.net/weixin_34337265/article/details/86030756 https://blog.csdn.net/Neil_1993/article/details/85691295 https://blog.csdn.net/qq_15764943/article/details/85837552 #### Description {**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jweixin-module": "^1.6.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "秒杀列表",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more/uni-load-more"
+  }
+}
