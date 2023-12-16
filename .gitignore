@@ -22,3 +22,4 @@ yarn-error.log*
 /*.lock
 /.idea/
 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
+/node_modules
